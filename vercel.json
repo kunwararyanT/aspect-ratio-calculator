@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://ktoolshq.com/reels-aspect-ratio",
+      "destination": "https://ktoolshq.com/reels-aspect-ratio/",
       "permanent": true
     }
   ]
